@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox https://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="37.5528262" lon="126.9242898">
+		<name>point1</name>
+	</wpt>
+	<wpt lat="37.5526529" lon="126.9244574">
+		<name>point2</name>
+	</wpt>
+	<wpt lat="37.55252" lon="126.9246385">
+		<name>point3</name>
+	</wpt>
+	<wpt lat="37.5523637" lon="126.9248624">
+		<name>point4</name>
+	</wpt>
+	<wpt lat="37.552217" lon="126.9251347">
+		<name>point5</name>
+	</wpt>
+	<wpt lat="37.5521745" lon="126.9255209">
+		<name>point6</name>
+	</wpt>
+	<wpt lat="37.5520915" lon="126.9258723">
+		<name>point7</name>
+	</wpt>
+	<wpt lat="37.5520373" lon="126.9259554">
+		<name>point8</name>
+	</wpt>
+	<wpt lat="37.5519724" lon="126.9259943">
+		<name>point9</name>
+	</wpt>
+	<wpt lat="37.5519044" lon="126.9260064">
+		<name>point10</name>
+	</wpt>
+	<wpt lat="37.5512069" lon="126.9256926">
+		<name>point11</name>
+	</wpt>
+	<wpt lat="37.5503138" lon="126.925651">
+		<name>point12</name>
+	</wpt>
+	<wpt lat="37.5501096" lon="126.9256175">
+		<name>point13</name>
+	</wpt>
+	<wpt lat="37.549359" lon="126.925541">
+		<name>point14</name>
+	</wpt>
+	<wpt lat="37.5492165" lon="126.9255088">
+		<name>point15</name>
+	</wpt>
+	<wpt lat="37.5488422" lon="126.9257542">
+		<name>point16</name>
+	</wpt>
+	<wpt lat="37.5487954" lon="126.9263215">
+		<name>point17</name>
+	</wpt>
+	<wpt lat="37.5487508" lon="126.9261123">
+		<name>point18</name>
+	</wpt>
+	<wpt lat="37.5478098" lon="126.9260117">
+		<name>point19</name>
+	</wpt>
+	<wpt lat="37.5476907" lon="126.926052">
+		<name>point20</name>
+	</wpt>
+	<wpt lat="37.5478098" lon="126.9215137">
+		<name>point21</name>
+	</wpt>
+</gpx>

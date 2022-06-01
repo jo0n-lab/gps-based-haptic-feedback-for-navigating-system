@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox https://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="37.5528188" lon="126.9242978">
+		<name>point1</name>
+	</wpt>
+	<wpt lat="37.5526981" lon="126.9244473">
+		<name>point2</name>
+	</wpt>
+	<wpt lat="37.5525588" lon="126.9246452">
+		<name>point3</name>
+	</wpt>
+	<wpt lat="37.5524461" lon="126.9248752">
+		<name>point4</name>
+	</wpt>
+	<wpt lat="37.5523844" lon="126.9248765">
+		<name>point5</name>
+	</wpt>
+	<wpt lat="37.552209" lon="126.9250951">
+		<name>point6</name>
+	</wpt>
+	<wpt lat="37.5521564" lon="126.9255906">
+		<name>point7</name>
+	</wpt>
+	<wpt lat="37.5521096" lon="126.9258857">
+		<name>point8</name>
+	</wpt>
+	<wpt lat="37.5520501" lon="126.9259769">
+		<name>point9</name>
+	</wpt>
+	<wpt lat="37.551982" lon="126.9260144">
+		<name>point10</name>
+	</wpt>
+	<wpt lat="37.551897" lon="126.9260305">
+		<name>point11</name>
+	</wpt>
+	<wpt lat="37.5515737" lon="126.925891">
+		<name>point12</name>
+	</wpt>
+	<wpt lat="37.551216" lon="126.9256825">
+		<name>point13</name>
+	</wpt>
+	<wpt lat="37.5507529" lon="126.9256993">
+		<name>point14</name>
+	</wpt>
+	<wpt lat="37.5503414" lon="126.9256449">
+		<name>point15</name>
+	</wpt>
+	<wpt lat="37.5501001" lon="126.9256309">
+		<name>point16</name>
+	</wpt>
+	<wpt lat="37.549662" lon="126.925588">
+		<name>point17</name>
+	</wpt>
+	<wpt lat="37.5493616" lon="126.9255397">
+		<name>point18</name>
+	</wpt>
+	<wpt lat="37.5492085" lon="126.9255041">
+		<name>point19</name>
+	</wpt>
+	<wpt lat="37.5490219" lon="126.9256161">
+		<name>point20</name>
+	</wpt>
+	<wpt lat="37.548839" lon="126.9257462">
+		<name>point21</name>
+	</wpt>
+	<wpt lat="37.5488284" lon="126.9258696">
+		<name>point22</name>
+	</wpt>
+	<wpt lat="37.5487944" lon="126.9262746">
+		<name>point23</name>
+	</wpt>
+	<wpt lat="37.5487433" lon="126.9261351">
+		<name>point24</name>
+	</wpt>
+	<wpt lat="37.5485754" lon="126.9261586">
+		<name>point25</name>
+	</wpt>
+	<wpt lat="37.548301" lon="126.92606">
+		<name>point26</name>
+	</wpt>
+	<wpt lat="37.5478417" lon="126.9260117">
+		<name>point27</name>
+	</wpt>
+	<wpt lat="37.5477019" lon="126.9260379">
+		<name>point28</name>
+	</wpt>
+	<wpt lat="37.5477779" lon="126.9242093">
+		<name>point29</name>
+	</wpt>
+	<wpt lat="37.5478906" lon="126.9241583">
+		<name>point30</name>
+	</wpt>
+	<wpt lat="37.5477646" lon="126.9241624">
+		<name>point31</name>
+	</wpt>
+</gpx>

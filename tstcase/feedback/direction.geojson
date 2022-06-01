@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "path(processed)",
+        "desc": "Length: 1.11 km (0.69 mi)",
+        "stroke": "00ff00"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.9242911,
+            37.5528283
+          ],
+          [
+            126.9251387,
+            37.5522202
+          ],
+          [
+            126.92606,
+            37.5520596
+          ],
+          [
+            126.9256899,
+            37.5512133
+          ],
+          [
+            126.9254941,
+            37.5492133
+          ],
+          [
+            126.9257516,
+            37.548822
+          ],
+          [
+            126.926111,
+            37.5487944
+          ],
+          [
+            126.9260627,
+            37.547712
+          ],
+          [
+            126.9215029,
+            37.5478311
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "left(out)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.92468,
+          37.5525604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "left(out)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9255584,
+          37.5521436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "right(right)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9258642,
+          37.551612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "left(out)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9256094,
+          37.5503319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "left(out)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9256228,
+          37.5490304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "left(in)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.925934,
+          37.5487965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "right(right)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9260949,
+          37.5482691
+        ]
+      }
+    }
+  ]
+}

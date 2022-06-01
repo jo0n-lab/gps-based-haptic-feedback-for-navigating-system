@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "point182(U turn)",
+        "desc": "Length: 16.55 m (54.3 ft)",
+        "stroke": "80ff00"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.924161,
+            37.5478911
+          ],
+          [
+            126.924157,
+            37.5477423
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "point124(peak) out of padding",
+        "desc": "Length: 5.393 m (17.69 ft)",
+        "stroke": "80ff00"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.9260956,
+            37.5485785
+          ],
+          [
+            126.9261566,
+            37.5485748
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "point11(peak) out of padding",
+        "desc": "Length: 7.62 m (25 ft)",
+        "stroke": "80ff00"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.9248758,
+            37.5524472
+          ],
+          [
+            126.9248182,
+            37.5523961
+          ]
+        ]
+      }
+    }
+  ]
+}

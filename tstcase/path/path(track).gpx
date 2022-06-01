@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox https://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<trk>
+		<name>path(track)</name>
+		<desc>Length: 1.133 km (0.704 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>0000ff</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="37.5528262" lon="126.9242898"></trkpt>
+			<trkpt lat="37.5526529" lon="126.9244574"></trkpt>
+			<trkpt lat="37.55252" lon="126.9246385"></trkpt>
+			<trkpt lat="37.5523637" lon="126.9248624"></trkpt>
+			<trkpt lat="37.552217" lon="126.9251347"></trkpt>
+			<trkpt lat="37.5521745" lon="126.9255209"></trkpt>
+			<trkpt lat="37.5520915" lon="126.9258723"></trkpt>
+			<trkpt lat="37.5520373" lon="126.9259554"></trkpt>
+			<trkpt lat="37.5519724" lon="126.9259943"></trkpt>
+			<trkpt lat="37.5519044" lon="126.9260064"></trkpt>
+			<trkpt lat="37.5512069" lon="126.9256926"></trkpt>
+			<trkpt lat="37.5503138" lon="126.925651"></trkpt>
+			<trkpt lat="37.5501096" lon="126.9256175"></trkpt>
+			<trkpt lat="37.549359" lon="126.925541"></trkpt>
+			<trkpt lat="37.5492165" lon="126.9255088"></trkpt>
+			<trkpt lat="37.5488422" lon="126.9257542"></trkpt>
+			<trkpt lat="37.5487954" lon="126.9263215"></trkpt>
+			<trkpt lat="37.5487508" lon="126.9261123"></trkpt>
+			<trkpt lat="37.5478098" lon="126.9260117"></trkpt>
+			<trkpt lat="37.5476907" lon="126.926052"></trkpt>
+			<trkpt lat="37.5478098" lon="126.9215137"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

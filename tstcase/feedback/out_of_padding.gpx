@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox https://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<trk>
+		<name>point182(U turn)</name>
+		<desc>Length: 16.55 m (54.3 ft)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>80ff00</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="37.5478911" lon="126.924161"></trkpt>
+			<trkpt lat="37.5477423" lon="126.924157"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>point124(peak) out of padding</name>
+		<desc>Length: 5.393 m (17.69 ft)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>80ff00</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="37.5485785" lon="126.9260956"></trkpt>
+			<trkpt lat="37.5485748" lon="126.9261566"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>point11(peak) out of padding</name>
+		<desc>Length: 7.62 m (25 ft)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>80ff00</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="37.5524472" lon="126.9248758"></trkpt>
+			<trkpt lat="37.5523961" lon="126.9248182"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
